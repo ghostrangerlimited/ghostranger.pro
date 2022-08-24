@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+hr {
+  background: linear-gradient(to right, rgb(103, 232, 249), yellow);
+}
