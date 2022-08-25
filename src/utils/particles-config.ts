@@ -22,16 +22,13 @@ export const particlesOptions:any = {
           opacity: 0.2,
           width: 1,
       },
-      collisions: {
-          enable: true,
-      },
       move: {
           enable: true,
           outModes: {
               default: "bounce",
           },
           random: false,
-          speed: 4,
+          speed: 3,
           straight: false,
       },
       number: {
@@ -48,7 +45,7 @@ export const particlesOptions:any = {
           type: "circle",
       },
       size: {
-          value: { min: 1, max: 5 },
+          value: { min: 1, max: 3 },
       },
   },
   detectRetina: true,
