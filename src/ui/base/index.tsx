@@ -8,12 +8,14 @@ type IBaseProps = {
   children?: ReactNode;
 };
 
-const Base = (props: IBaseProps) => (
-  <div className="antialiased text-neutral-200">
-    <Meta title={AppConfig.title} description={AppConfig.description} />
-    {props.children}
-    <Footer />
-  </div>
-);
+const Base = (props: IBaseProps) => {
+  return (
+    <div className="antialiased text-neutral-200">
+      <Meta title={AppConfig.title} description={AppConfig.description} />
+      {props.children}
+      <Footer />
+    </div>
+  )
+};
 
 export { Base };
