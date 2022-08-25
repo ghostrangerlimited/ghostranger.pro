@@ -22,11 +22,11 @@ const Hero = () => (
           />
         </div>
         <div>
-          <h1 className="text-3xl lg:text-5xl font-bold">Volatile Labs</h1>
+          <h1 className="text-3xl lg:text-5xl font-bold">Volatile Labs Ltd.</h1>
           <hr className="pb-1 rounded" />
           <div className="mt-5">
             <p className="text-lg lg:text-xl">
-              We are a community of software engineers working to produce the next generation of blockchain software, and supporting the VMEX Finance decentralized protocol. We adhere to industry-grade code quality standards, and we aim to set a higher standard for open source software.
+              We are a community of software engineers working to produce the next generation of blockchain software, and supporting the VMEX decentralized protocol. We adhere to industry-grade code quality standards, and we aim to set a higher standard for open source software.
             </p>
           </div>
         </div>

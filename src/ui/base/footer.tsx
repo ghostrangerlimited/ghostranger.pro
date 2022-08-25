@@ -8,10 +8,10 @@ const Footer = () => (
         <div className="flex justify-between mb-10">
           <div className="flex flex-col gap-3 text-lg">
             <span className="text-2xl font-semibold">Contact</span>
-            <span>volatilelabsltd@gmail.com</span>
+            <span>inquiries@volatilelabs.ltd</span>
             <div className="flex flex-col">
-              <span>1309 Coffeen Ave</span>
-              <span>Sheridan, WY 82801</span>
+              <span>Intershore Chambers</span>
+              <span>Road Town, Tortola, British Virgin Islands</span>
             </div>
           </div>
           <div className="flex flex-col gap-3 text-right text-lg">
@@ -20,7 +20,7 @@ const Footer = () => (
             <span className="underline cursor-pointer">Facebook</span>
           </div>
         </div>
-        <div className="text-center text-lg">Volatile Labs, LTD &copy; 2022. All rights reserved.</div>
+        <div className="text-center text-lg">Volatile Labs Ltd. &copy; 2022. All rights reserved.</div>
       </Section>
     </Background>
   </div>
