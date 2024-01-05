@@ -1,9 +1,9 @@
 export const AppConfig = {
-  site_name: 'Volatile Labs, LTD.',
-  title: 'Volatile Labs',
-  twitter: '@twitter',
-  description: 'Volatile Labs is a software publishing group that focuses on blockchain development, and supporting the VMEX Finance decentralized protocol.',
+  site_name: 'Ghost Ranger',
+  title: 'Ghost Ranger',
+  twitter: '@ghostrangerlimited',
+  description: 'Ghost Ranger services the investigative research community and is taking private clients! We can help you improve your privacy, and solve investigative problems. Call today!',
   locale: 'en',
-  legalName: 'Volatile Labs, LTD.',
+  legalName: 'Ghost Ranger LLC',
   image: 'link to image',
 };

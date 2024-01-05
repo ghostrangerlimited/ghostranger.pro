@@ -16,17 +16,18 @@ const Hero = () => (
         <div className="flex items-center justify-center">
           <Image 
             src="/assets/images/logo-bw.png"
-            alt="Volatile Labs Logo"
+            alt="Ghost Ranger LLC"
             height="300"
             width="300"
           />
         </div>
         <div>
-          <h1 className="text-3xl lg:text-5xl font-bold">Volatile Labs Ltd.</h1>
+          <h1 className="text-3xl lg:text-5xl font-bold">Ghost Ranger LLC</h1>
           <hr className="pb-1 rounded" />
           <div className="mt-5">
             <p className="text-lg lg:text-xl">
-              We are a community of software engineers working to produce the next generation of blockchain software, and supporting the VMEX decentralized protocol. We adhere to industry-grade code quality standards, aiming to set a higher standard for open-source software.
+
+Welcome to Ghost Ranger LLC, your trusted partner in investigative services and privacy consultancy. Our team of skilled professionals, aptly named Ghost Rangers, specializes in discreetly navigating the shadows to unveil the truth. With a fusion of cutting-edge technology and seasoned expertise, we deliver top-notch investigative solutions tailored to your unique needs. Whether it's corporate inquiries, background checks, or privacy consultations, Ghost Ranger LLC is your assurance of confidentiality, reliability, and unwavering commitment to excellence. Your secrets are safe with us, and your peace of mind is our priority. Choose Ghost Ranger LLC for unparalleled discretion and results in the world of private investigation and privacy consulting.
             </p>
           </div>
         </div>
