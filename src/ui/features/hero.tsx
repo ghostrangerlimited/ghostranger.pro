@@ -27,7 +27,7 @@ const Hero = () => (
           <div className="mt-5">
             <p className="text-lg lg:text-xl">
 
-Welcome to Ghost Ranger LLC, your trusted partner in investigative services and privacy consultancy. Our team of skilled professionals, aptly named Ghost Rangers, specializes in discreetly navigating the shadows to unveil the truth. With a fusion of cutting-edge technology and seasoned expertise, we deliver top-notch investigative solutions tailored to your unique needs. Whether it's corporate inquiries, background checks, or privacy consultations, Ghost Ranger LLC is your assurance of confidentiality, reliability, and unwavering commitment to excellence. Your secrets are safe with us, and your peace of mind is our priority. Choose Ghost Ranger LLC for unparalleled discretion and results in the world of private investigation and privacy consulting.
+Welcome to Ghost Ranger LLC, your trusted partner in investigative services and privacy consultancy. Our team of skilled professionals specializes in discreetly navigating the shadows to unveil the truth. Whether it's corporate inquiries, background checks, or privacy consultations, Ghost Ranger LLC is your assurance of confidentiality, reliability, and unwavering commitment to excellence.
             </p>
           </div>
         </div>
